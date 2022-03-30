@@ -1,0 +1,15 @@
+[
+    {
+        "appear": "False",
+        "name": "Shrek",
+        "height": "2.13 m", 
+        "img": "https://static.wikia.nocookie.net/shrek/images/3/3f/Portada_img.jpg/revision/latest/scale-to-width-down/250?cb=20100719002911&path-prefix=es"
+    },
+    
+    {
+        "appear": "False",
+        "name": "Felipe VI",
+        "height": "1.97 m",
+        "img": "https://static1.abc.es/Media/201501/19/rey-felipe-VI--478x500.jpg"
+    }
+]
